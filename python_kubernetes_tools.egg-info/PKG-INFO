@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: python-kubernetes-tools
+Version: 0.0.1
+Summary: https://github.com/luismiguelsaez/python-kubernetes-tools
+Home-page: https://github.com/luismiguelsaez/python-kubernetes-tools
+Author: Luis Miguel Sáez
+Keywords: kubernetes,python
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.7
+Description-Content-Type: text/x-rst
+
+# python_kubernetes_tools
